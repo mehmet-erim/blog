@@ -3,12 +3,38 @@
     <title>Mehmet&#x27;s Blog</title>
     <link href="https://mehmet-erim.github.io/blog/feed.xml" rel="self" />
     <link href="https://mehmet-erim.github.io/blog" />
-    <updated>2022-02-16T12:07:09+03:00</updated>
+    <updated>2022-02-16T12:17:14+03:00</updated>
     <author>
         <name>Mehmet Erim</name>
     </author>
     <id>https://mehmet-erim.github.io/blog</id>
 
+    <entry>
+        <title>Second Blog Post</title>
+        <author>
+            <name>Mehmet Erim</name>
+        </author>
+        <link href="https://mehmet-erim.github.io/blog/second-blog-post.html"/>
+        <id>https://mehmet-erim.github.io/blog/second-blog-post.html</id>
+
+        <updated>2022-02-16T12:17:14+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://mehmet-erim.github.io/blog/media/posts/2/photo-1643103546030-22a5c66f0be0.jpeg" alt="what a nice view" />
+                    Suspendisse interdum ut nisl eu pulvinar. Donec porttitor viverra lorem lobortis cursus. Vivamus aliquam, tellus eget consectetur congue, arcu libero finibus sapien, sed molestie odio augue eu enim. Vivamus rutrum laoreet lacus, ut lacinia nunc ultrices eget. In imperdiet aliquet metus non ornare. Fusce tempor&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://mehmet-erim.github.io/blog/media/posts/2/photo-1643103546030-22a5c66f0be0.jpeg" alt="what a nice view" />
+                <p>Suspendisse interdum ut nisl eu pulvinar. Donec porttitor viverra lorem lobortis cursus. Vivamus aliquam, tellus eget consectetur congue, arcu libero finibus sapien, sed molestie odio augue eu enim. Vivamus rutrum laoreet lacus, ut lacinia nunc ultrices eget. In imperdiet aliquet metus non ornare. Fusce tempor tincidunt maximus. Duis bibendum libero suscipit tellus blandit, sit amet tempus erat imperdiet. Aliquam ut erat velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec dolor lacus, porttitor at sollicitudin in, ultricies et magna. Fusce a justo vitae mauris consequat aliquet. Duis sed tortor sit amet dolor commodo fringilla.</p>
+<p>Vestibulum ullamcorper, sapien sit amet convallis mollis, dui sem scelerisque diam, sed malesuada nibh augue non nunc. Aliquam mi ante, commodo at vulputate a, vulputate mattis tortor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut dapibus venenatis lacus, non scelerisque turpis volutpat sit amet. Ut iaculis viverra magna, et pellentesque elit venenatis at. Nullam non ligula orci. In vitae aliquam ante. Suspendisse vulputate ex non quam sagittis fringilla. Morbi sodales massa ut sapien vehicula, bibendum volutpat urna rhoncus. Nullam et orci placerat, fermentum metus sit amet, posuere ante. Aenean vestibulum fringilla commodo. Etiam quis felis sem. Praesent tempus ligula lorem, sit amet imperdiet ipsum efficitur sed. Nam mattis nulla ipsum, maximus varius odio ornare et. Fusce dictum odio nec mauris ullamcorper dictum.</p>
+<p>Vivamus sed odio et lectus commodo mollis. Fusce dictum felis nec orci condimentum, non elementum leo laoreet. Phasellus ac dignissim tortor. Suspendisse tempor mi sed justo dapibus egestas eu ac turpis. Donec varius ipsum at luctus maximus. Integer faucibus lacinia tincidunt. Sed luctus est a vulputate ullamcorper. Nam hendrerit velit vel arcu semper rhoncus ac at tellus. Sed placerat fermentum est, et mollis leo facilisis quis. Fusce tincidunt quam orci, non pellentesque tellus vehicula nec. Cras non varius nunc. Nam in sem in lacus convallis eleifend. Suspendisse non ex ante. Nunc id porta tortor. Etiam blandit sit amet turpis eget egestas.</p>
+<p>Pellentesque interdum accumsan quam, ut consectetur purus dapibus quis. Nullam consectetur faucibus odio ut commodo. Nunc sit amet congue diam, vestibulum rhoncus neque. Praesent id orci ipsum. Donec dictum tempor neque, a dignissim mauris suscipit a. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at rhoncus metus. Morbi a eros ut nunc tempor dictum et non urna. Suspendisse potenti. Proin pellentesque et leo nec ultricies.</p>
+<p>Suspendisse interdum ut nisl eu pulvinar. Donec porttitor viverra lorem lobortis cursus. Vivamus aliquam, tellus eget consectetur congue, arcu libero finibus sapien, sed molestie odio augue eu enim. Vivamus rutrum laoreet lacus, ut lacinia nunc ultrices eget. In imperdiet aliquet metus non ornare. Fusce tempor tincidunt maximus. Duis bibendum libero suscipit tellus blandit, sit amet tempus erat imperdiet. Aliquam ut erat velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec dolor lacus, porttitor at sollicitudin in, ultricies et magna. Fusce a justo vitae mauris consequat aliquet. Duis sed tortor sit amet dolor commodo fringilla.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Lorem Ipsum Dolor</title>
         <author>
