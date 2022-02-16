@@ -3,12 +3,55 @@
     <title>Mehmet&#x27;s Blog</title>
     <link href="https://mehmet-erim.github.io/blog/feed.xml" rel="self" />
     <link href="https://mehmet-erim.github.io/blog" />
-    <updated>2022-02-16T12:26:09+03:00</updated>
+    <updated>2022-02-16T18:32:01+03:00</updated>
     <author>
         <name>Mehmet Erim</name>
     </author>
     <id>https://mehmet-erim.github.io/blog</id>
 
+    <entry>
+        <title>4th Blog Post</title>
+        <author>
+            <name>Mehmet Erim</name>
+        </author>
+        <link href="https://mehmet-erim.github.io/blog/4th-blog-post.html"/>
+        <id>https://mehmet-erim.github.io/blog/4th-blog-post.html</id>
+
+        <updated>2022-02-16T18:32:01+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Suspendisse interdum ut nisl eu pulvinar. Donec porttitor viverra lorem lobortis cursus. Vivamus aliquam, tellus eget consectetur congue, arcu libero finibus sapien, sed molestie odio augue eu enim. Vivamus rutrum laoreet lacus, ut lacinia nunc ultrices eget. In imperdiet aliquet metus non ornare. Fusce tempor&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Suspendisse interdum ut nisl eu pulvinar. Donec porttitor viverra lorem lobortis cursus. Vivamus aliquam, tellus eget consectetur congue, arcu libero finibus sapien, sed molestie odio augue eu enim. Vivamus rutrum laoreet lacus, ut lacinia nunc ultrices eget. In imperdiet aliquet metus non ornare. Fusce tempor tincidunt maximus. Duis bibendum libero suscipit tellus blandit, sit amet tempus erat imperdiet. Aliquam ut erat velit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec dolor lacus, porttitor at sollicitudin in, ultricies et magna. Fusce a justo vitae mauris consequat aliquet. Duis sed tortor sit amet dolor commodo fringilla.</p>
+<pre><code class="language-ts">const user = {
+  name: &quot;Hayes&quot;,
+  id: 0,
+};
+</code></pre>
+<p>Some HTML code for testing purpose:</p>
+<pre><code class="language-html">&lt;h2&gt;An Unordered HTML List&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Coffee&lt;/li&gt;
+  &lt;li&gt;Tea&lt;/li&gt;
+  &lt;li&gt;Milk&lt;/li&gt;
+&lt;/ul&gt;  
+
+&lt;h2&gt;An Ordered HTML List&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Coffee&lt;/li&gt;
+  &lt;li&gt;Tea&lt;/li&gt;
+  &lt;li&gt;Milk&lt;/li&gt;
+&lt;/ol&gt;
+</code></pre>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Third Blog Post</title>
         <author>
