@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mehmet-erim.github.io/blog/sitemap.xml
